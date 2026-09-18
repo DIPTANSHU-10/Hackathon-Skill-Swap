@@ -17,4 +17,4 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/DIPTANSHU-10/Hackathon-Skill-Swap.git](https://github.com/DIPTANSHU-10/Hackathon-Skill-Swap.git)
+   git clone (https://github.com/DIPTANSHU-10/Hackathon-Skill-Swap.git)
