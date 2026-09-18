@@ -6,7 +6,7 @@
 * **Track:** Track 2 - Web Product (SkillSwap / Creator Economy)
 * **Frontend:** React.js / HTML / CSS / JavaScript
 * **Backend:** Node.js / Express
-
+* **Standard API Implemented:** No (Grading via UI Browser Agent)
 ## Key Features
 1. **Post a Gig:** Creators list services with title, category, price rate, and description.
 2. **Browse & Search:** Marketplace page with filter options and category search.
